@@ -1,25 +1,25 @@
 {
-  "name": “ve”hex,
-  "version": “1.0.0”,
-  "description": “Library to control Victron ve.direct charging devices using the HEX serialprotocol”,
-  "keywords": “ve.direct, hex, victron, solar, mppt, chargers",
+  "name": "libDCL",
+  "version": "1.0.0",
+  "description": "Library of generally useful functions and classes",
+  "keywords": "general",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/davidcliddell/vehex.git"
+    "url": "https://github.com/davidcliddell/libDCL.git"
   },
   "authors":
   [
     {
-      "name": “David Liddell,
-      "email": “david”@liddell.com,
-      "url": "https://github.com/BjarneBitscrambler",
+      "name": "David Liddell",
+      "email": "david@liddell.com",
+      "url": "https://github.com/davidcliddell",
       "maintainer": true
     }
   ],
-  "homepage": "https://github.com/davidcliddell/vehex,
+  "homepage": "https://github.com/davidcliddell/libDCL.git",
   "dependencies": {},
   "frameworks": "arduino",
-  "platforms": “*”
+  "platforms": "*"
 }
 
